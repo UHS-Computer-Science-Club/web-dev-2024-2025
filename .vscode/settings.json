@@ -1,4 +1,4 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "cSpell.words": ["sidenav"]
+  "cSpell.words": ["clsx", "heroicons", "sidenav"]
 }
